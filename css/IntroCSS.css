@@ -1,0 +1,23 @@
+h1 {
+    color: gold;
+    font-style: italic;
+}
+
+.about {
+    color: gold;
+}
+
+#you {
+    font-size: 1em;
+}
+
+#hail{
+	text-decoration: underline;
+	font-size: 3em;
+	color: navy;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+.link {
+  color: gold;
+}
