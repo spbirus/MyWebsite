@@ -1,8 +1,6 @@
 /*
 =====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
+
 =====================================================================
 
    TOC:
@@ -359,6 +357,36 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+.java {
+  	width: 90%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.c_sharp {
+  	width: 60%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.android {
+  	width: 80%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.hdl_designer {
+  	width: 50%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.ruby {
+  	width: 30%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.linux {
+  	width: 55%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
@@ -415,7 +443,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #2B2B2B;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -454,7 +482,7 @@ ul#nav li.current a { color: #F06000; }
    width: 100%;
    height: 100%;
 
-	opacity: 0;
+	opacity: 70;
 	-moz-opacity: 0;
 	filter:alpha(opacity=0);
 

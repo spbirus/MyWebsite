@@ -1,5 +1,4 @@
 ## Installation
 
-1. Clone the repo off of GitHub
-
+1. Go to the site sambirus.com
 
